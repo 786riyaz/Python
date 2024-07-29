@@ -1,0 +1,6 @@
+1. Open Browser and search for "Install Python"
+2. Go to Link "https://www.python.org/downloads/"
+3. Download Python Setup.
+4. Run the Setup.
+5. Enable the checkbox of "Add python.exe to PATH"
+6. Click on Install Now.
