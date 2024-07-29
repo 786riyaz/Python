@@ -1,4 +1,4 @@
-# C
+# Python
 to learn Python Language
 
 YouTube Link :: 
